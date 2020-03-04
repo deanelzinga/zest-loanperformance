@@ -9,9 +9,3 @@ You have been given two datasets:
 - Discuss any problems or limitations with the data, shortcomings of the analysis and/or additional data elements that might be useful. 
 - You should present your findings in a presentation lasting less than 30 minutes including time for questions.
 
-# Work journal
-
-2/29/2020 18:00 - Looking for US Census or other government sources on ZIP Code to median income. This looks promising:
-https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2017-zip-code-data-soi
-
-3/1/2020 16:00 - 
