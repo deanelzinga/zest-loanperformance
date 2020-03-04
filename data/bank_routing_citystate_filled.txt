@@ -1,0 +1,139 @@
+bank_routing_number	fedach_name	fedach_citystate	loans_per_routing_number	comment
+000012400	NA	NA	1	
+021409169	Jpmorgan Chase	Tampa, FL	1	
+026009593	Bank Of America N.a.	Richmond, VA	1	
+031100209	Citibank Na	New Castle, DE	1	
+031101169	The Bancorp.com	Sioux Falls, SD	3	
+042000013	U.s. Bank National Association	St. Paul, MN	1	
+044000804	Umb, Na	Kansas City, MO	1	
+051000017	Bank Of America, N.a.	Henrico, VA	7	
+051400549	Wells Fargo Bank	Minneapolis, MN	1	
+052173464	M & T Bank	Amherst, NY	1	
+053000219	Wells Fargo Bank	Minneapolis, MN	1	
+053904483	Bank Of America, N.a.	Henrico, VA	1	
+056073573	E*trade Securities	Jersey City, NJ	1	
+061113415	Truist Bank	Wilson, NC	1	
+061120000	Green Dot Bank	Sandy, UT	1	
+063192874	Axiom Bank	Maitland, FL	3	
+073000545	Us Bank Na	St. Paul, MN	1	
+073972181	Metabank	Sioux Falls, SD	5	
+091400020	First National Bank Sioux Falls	Sioux Falls, SD	1	
+091400036	NA	NA	1	not a valid routing number
+091400046	Wells Fargo Bank Na (south Dakota)	Minneapolis, MN	12	
+091400172	Dacotah Bank	Aberdeen, SD	3	
+091400486	First Dakota National Bank	Yankton, SD	1	
+091400525	First National Bank Pierre	Pierre, SD	1	
+091400680	Bank Of The West	Los Angeles, CA	2	
+091402947	Rivers Edge Bank	Marion, SD	1	
+091406121	NA	NA	1	valid bank routing number, can not find active bank
+091407803	Cortrust Bank-webster Office	Mitchell, SD	1	
+091408035	Reliabank Dakota	Estelline, SD	1	
+091408501	Us Bank Na	St. Paul, MN	5	
+091408598	First Premier Bank	Sioux Falls, SD	2	
+091408734	Great Western Bank	Sioux Falls, SD	13	
+091408899	Cortrust Bank National Association	Mitchell, SD	2	
+091409487	First National Bank Of Omaha	Omaha, NE	1	
+101089742	Axos Bank	San Diego, CA	2	
+102000076	Wells Fargo Bank Na	Minneapolis, MN	1	
+102301092	Wells Fargo Bank Na	Minneapolis, MN	1	
+103101437	Simmons Bank	Pine Bluff, AR	1	
+107002192	Wells Fargo Bank Na ( New Mexico)	Minneapolis, MN	1	
+114924742	The Bancorp Bank	Sioux Falls, SD	2	
+121000248	Wells Fargo Bank, Na	Minneapolis, MN	1	
+122000247	Wells Fargo Bank Na	Minneapolis, MN	1	
+122000661	Bank Of America, N.a.	Richmond, VA	1	
+122100024	Jpmorgan Chase	Tampa, FL	2	
+122238585	Pacific Premier Bank	Costa Mesa, CA	3	
+122244171	NA	NA	1	valid bank routing number, can not find active bank
+122400724	Bank Of America, N.a.	Henrico, VA	2	
+123103606	Columbia State Bank	Lakewook, WA	2	
+123103716	Bank Of America Nw N.a.- Idaho	Henrico, VA	13	
+123103729	Us Bank Na	St. Paul, MN	17	
+123103732	First Interstate Bank	Billings, MT	2	
+123171955	Glacier Bank-mountain West Div	Coeur D'alene, ID	9	
+123271978	Jpmorgan Chase	Tampa, FL	10	
+123545978	NA	NA	1	not a valid routing number
+124000054	Zions Bancorporation, Na Dba Zions B	West Valley City, UT	41	
+124000737	Key Bank	Albany, NY	9	
+124001545	Jpmorgan Chase	Tampa, FL	72	
+124002971	Wells Fargo Bank Na	Minneapolis, MN	75	
+124085024	Green Dot Bank	Sandy, UT	1	
+124100417	The Bank Of Commerce	Idaho Falls, ID	1	
+124101555	Key Bank	Albany, NY	3	
+124103582	D L Evans Bank	Burley, ID	1	
+124103773	Glacier Bank-citizens Community Div	Pocatello, ID	2	
+124103799	Wells Fargo Bank Na	Minneapolis, MN	24	
+124300107	Bank Of Utah	Ogden, UT	2	
+124300327	Central Bank	Provo, UT	3	
+124300767	Altabank	American Fork, UT	2	
+124301025	Altabank	American Fork, UT	2	
+124301779	State Bank Of Southern Utah	Cedar City, UT	3	
+124302150	Us Bank Na	St. Paul, MN	34	
+124302613	First Utah Bank	Salt Lake City, UT	1	
+124302914	Rock Canyon Bank	Orem, UT	3	
+124302927	Capital Community Bank	Pleasant Grove, UT	2	
+124302930	Cache Valley Bank	Logan, UT	1	
+124303065	Bank Of America Na	Henrico, VA	1	
+124384657	Transportation Alliance Bank	Ogden, UT	1	
+125000105	Us Bank Na	St. Paul, MN	1	
+125100089	Washington Trust Bank	Spokane, WA	2	
+211382850	I. C. Federal Credit Union	Fitchburg, MA	1	
+281082915	Anheuser-busch Employ Cu	St. Louis, MO	1	
+291070001	Tcf National Bank Mn	Plymouth, MN	1	
+291471134	Great Western Bank	Sioux Falls, SD	2	
+291479178	Aberdeen Federal Cu	Aberdeen, SD	1	
+291479592	Black Hills Federal Credit Union	Rapid City, SD	1	
+291479686	Highmark Federal Credit Union	Rapid City, SD	1	
+291479903	Service First Federal Credit Union	Sioux Falls, SD	2	
+291479974	Sioux Falls Federal Credit Union	Sioux Falls, SD	2	
+291479987	Voyage Federal Credit Union	Sioux Falls, SD	1	
+311079474	Intouch Credit Union	Plano, TX	1	
+314074269	Usaa Federal Savings Bank	San Antonio, TX	5	
+321175261	The Golden 1 Credit Union	Sacramento, CA	1	
+321176260	Operating Engineers Local Un #3 Fcu	Livermore, CA	1	
+322077795	Farmers Insurance Group Fcu	Los Angeles, CA	1	
+323173313	Potlatch No 1 Financial Credit Union	Lewiston, ID	3	
+324078268	NA	NA	2	valid bank routing number, can not find active bank
+324078721	Granite Cu	Salt Lake City, UT	2	
+324078899	NA	NA	2	valid bank routing number, can not find active bank
+324078909	Deseret First Credit Union	West Valley City, UT	2	
+324079131	American United Family Of Cu's Fcu	West Jordan, UT	1	
+324079416	University First Fcu	Salt Lake City, UT	6	
+324079474	Chartway Federal Credit Union	Virginia Beach, VA	1	
+324079500	Utah First Federal Credit Union	Salt Lake City, UT	3	
+324079539	Utah Power & Light Credit Union	Salt Lake City, UT	3	
+324079555	Mountain America Fcu	West Jordan, UT	32	
+324170140	NA	NA	1	valid bank routing number, can not find active bank
+324170179	First Federal Savings Bank-twin Fall	Twin Falls, ID	2	
+324172533	NA	NA	1	valid bank routing number, can not find active bank
+324172546	NA	NA	1	valid bank routing number, can not find active bank
+324172562	NA	NA	1	valid bank routing number, can not find active bank
+324172575	Capital Educators Fcu	Meridian, ID	4	
+324172630	Icon Credit Union	Boise, ID	2	
+324173079	Westmark Credit Union	Idaho Falls, ID	1	
+324173082	East Idaho Credit Union	Idaho Falls, ID	3	
+324173150	Idaho State University Fcu	Pocatello, ID	2	
+324173383	Pioneer Federal Credit Union	Mountain Home, ID	2	
+324173626	Idaho Central Credit Union	Chubbuck, ID	5	
+324173639	Idaho State University Fcu	Pocatello, ID	1	
+324173642	NA	NA	1	valid bank routing number, can not find active bank
+324173655	Pocatello Simplot Credit Union	Pocatello, ID	1	
+324173710	Connections Credit Union	Pocatello, ID	1	
+324173736	Sei Us Employees Fcu	Pocatello, ID	1	
+324173817	Beehive Federal Credit Union	Rexburg, ID	1	
+324376711	San Juan Credit Union	Blanding, UT	1	
+324377134	Desertview Federal Credit Union	Huntington, UT	1	
+324377202	Cyprus Federal Credit Union	West Jordan, UT	8	
+324377286	Grand County Credit Union	Moab, UT	1	
+324377338	Moroni Feed Cu	Moroni, UT	1	
+324377516	America First Federal Credit Union	Riverdale, UT	49	
+324377613	Goldenwest Federal Credit Unio	South Ogden, UT	8	
+324377817	Eastern Utah Community Credit Union	Price, UT	2	
+324377820	Utah Community Credit Union	Provo, UT	2	
+324377862	NA	NA	3	valid bank routing number, can not find active bank
+324379705	Jordan Credit Union	Sandy, UT	6	
+324379763	Nebo Credit Un	Springville, UT	1	
+324379828	Chartway Federal Credit Union	Virginia Beach, VA	7	
+325070760	Jpmorgan Chase	Tampa, FL	5	
+325182690	Numerica Credit Union	Spokane Valley, WA	1	
+511300503	NA	NA	1	valid bank routing number, can not find active bank
